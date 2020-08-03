@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"SetTileInfo"
+			],
+			[
+				"tile",
+				"tileXOffset"
+			],
+			[
+				"get_",
+				"get_bullet_base_x_and_y"
+			],
+			[
+				"enem",
+				"enemy_rect"
+			],
+			[
+				"enemy",
+				"enemy_size_y"
+			],
+			[
+				"player",
+				"player_size_y"
+			],
+			[
+				"chec",
+				"checkC"
+			],
+			[
+				"check",
+				"checkB"
+			],
+			[
+				"row",
+				"rowCreate"
+			],
+			[
+				"std",
+				"studentList"
+			],
+			[
+				"musics",
+				"musicsettings"
+			],
+			[
+				"newga",
+				"newgamestart"
+			],
+			[
+				"music",
+				"musicsettingsss"
+			],
+			[
+				"musicset",
+				"musicsettingsss"
+			],
+			[
+				"mus",
+				"musicsettingsss"
+			],
+			[
+				"musicse",
+				"musicsettingss"
+			],
+			[
+				"settings_fu",
+				"settings_fullscreen"
+			],
+			[
+				"a",
+				"abs"
+			],
+			[
+				"play",
+				"playeramountselect"
+			],
+			[
+				"PlayerJumpLoad",
+				"PlayerJumpLoad1_SCALED"
+			],
+			[
+				"anima",
+				"animationUpdate"
+			],
+			[
+				"shooter",
+				"shooter1bullet_x"
+			],
+			[
+				"shooter1bu",
+				"shooter1bullet_y"
+			],
+			[
+				"sho",
+				"shooter1bullet_y"
+			],
+			[
+				"bu",
+				"bullet_udrect"
+			],
+			[
+				"s",
+				"shooter1bullet_y"
+			],
+			[
+				"shoo",
+				"shooter1bullet_x"
+			],
+			[
+				"B",
+				"Bullet_UD"
+			],
+			[
+				"level",
+				"levelReset"
+			],
+			[
+				"pl",
+				"playerrect"
+			],
+			[
+				"shooter1",
+				"shooter1bullet_x"
+			],
+			[
+				"b",
+				"bullet_ud_col"
+			],
+			[
+				"True",
+				"textures"
+			],
+			[
+				"floor",
+				"floor1_level1"
+			],
+			[
+				"student",
+				"studentnamer"
+			],
+			[
+				"abse",
+				"absentday"
+			],
+			[
+				"add",
+				"addday"
+			],
+			[
+				"amoun",
+				"amountlost"
+			],
+			[
+				"amount",
+				"amountgained"
+			],
+			[
+				"floor1",
+				"floor1_level1"
+			],
+			[
+				"shooter1_",
+				"shooter1bullet_y"
+			],
+			[
+				"shoot",
+				"shooter1bullet_y"
+			],
+			[
+				"shooter1b",
+				"shooter1bullet_y"
+			],
+			[
+				"ene",
+				"enemy_bullet_ud"
+			],
+			[
+				"stage",
+				"stage3_level1"
+			],
+			[
+				"level1",
+				"level1y"
+			],
+			[
+				"moving",
+				"movingUP"
+			],
+			[
+				"mov",
+				"movingUP"
+			],
+			[
+				"f_",
+				"f_bullety"
+			],
+			[
+				"f",
+				"f_bullety_change"
+			],
+			[
+				"f_b",
+				"f_bulletx"
+			],
+			[
+				"y",
+				"y_change"
+			],
+			[
+				"event",
+				"eventHandler"
+			],
+			[
+				"pr",
+				"pressedRIGHT"
+			],
+			[
+				"pres",
+				"pressedUP"
+			],
+			[
+				"p",
+				"pressedDOWN"
+			],
+			[
+				"press",
+				"pressedLEFT"
+			],
+			[
+				"jew",
+				"jewelpturn"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/CodingProjects/SDL2/The Dungeons Heart/src/player.cpp",
+		"/C/CodingProjects/SDL2/The Dungeons Heart/include/Player.hpp",
+		"/C/CodingProjects/SDL2/The Dungeons Heart/include/Entity.hpp",
+		"/C/CodingProjects/SDL2/SDL2 Platformer/main.o",
+		"/C/Users/Zan3y/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/CodingProjects/Unity/RTS/Assets/HexMap.cs",
+		"/C/CodingProjects/Unity/RTS/Assets/Hex.cs",
+		"/C/CodingProjects/Unity/RTS/Assets/HexTileMapGenerator.cs",
+		"/C/CodingProjects/Godot/Test Game/Player/Player.gd",
+		"/C/CodingProjects/HTML/Websites/Zan3y/assets/home.html",
+		"/C/CodingProjects/HTML/Websites/Zan3y/assets/games.html",
+		"/C/CodingProjects/HTML/Websites/Zan3y/assets/portfolio.html",
+		"/C/CodingProjects/HTML/Websites/Zan3y/assets/contact.html",
+		"/C/CodingProjects/HTML/HTML Games/Art of Housewifery/nagging.html",
+		"/C/CodingProjects/HTML/HTML Games/Art of Housewifery/laundry.html",
+		"/C/CodingProjects/HTML/HTML Games/Art of Housewifery/cooking.html",
+		"/C/CodingProjects/HTML/HTML Games/Art of Housewifery/cleaning.html",
+		"/C/CodingProjects/HTML/HTML Games/Art of Housewifery/main.html",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/overall.py",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/game.py",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/menu.py",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/intro.py",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/display.py",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/ArtOfHousewifery.pyw",
+		"/C/CodingProjects/Python/Python Games/MachineLearning/assets/main.pyw",
+		"/C/Users/Zan3y/Desktop/lmth.html",
+		"/C/CodingProjects/Python/Python Games/MachineLearning/main.pyw",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/all.py",
+		"/C/CodingProjects/Python/Python Games/Platformer/assets/Platformer.pyw",
+		"/C/CodingProjects/Python/Python Games/!Never Finished/Art of HousewiferyV1/main.pyw",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/scripts/foo/display.py",
+		"/C/CodingProjects/Python/Python Games/Turr3tZer0/assets/main.pyw",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/assets/video/wood.png",
+		"/C/CodingProjects/Python/Python Games/Art of Housewifery/main.pyw",
+		"/C/CodingProjects/Python/Learning Python/pyautogui/autogame.py",
+		"/C/Users/Zan3y/Desktop/choppyorc.py",
+		"/C/CodingProjects/Python/Python Games/Turr3t-Zer0/assets/main.pyw",
+		"/C/CodingProjects/Python/Python Games/Turr3t-Zer0/README.md",
+		"/C/Users/Zan3y/Desktop/screenshots/screenshots.pyw",
+		"/C/CodingProjects/Python/Python Games/template.pyw",
+		"/C/CodingProjects/Python/Python Games/Platformer/Platformer.pyw",
+		"/C/CodingProjects/Python/Python Games/Game/main.pyw",
+		"/C/CodingProjects/Python/Python Games/Game/main.py",
+		"/C/CodingProjects/Python/Python Games/Platformer/Game.pyw",
+		"/C/CodingProjects/Python/Python Games/Platformer Engine/PlatformerEngine.pyw",
+		"/C/CodingProjects/Python/Python Games/Physics Engine/main.pyw",
+		"/C/CodingProjects/Python/Python Games/Physics Engine 2/PhysicsEngine.pyw",
+		"/C/CodingProjects/Python/Python Games/Physics Engine/main.py",
+		"/C/CodingProjects/Python/Python Games/Physics Engine/test.py",
+		"/C/CodingProjects/Python/Python Applications/Password Crypter/main.py",
+		"/C/CodingProjects/Python/Python Applications/QFC Developer Friendly/main.py",
+		"/C/CodingProjects/Python/Python Applications/QFC/assets/main.py",
+		"/C/CodingProjects/Python/Python Applications/QFC/main.py",
+		"/C/CodingProjects/Python/Python Applications/Quadratic Formula Calculator/main.py",
+		"/C/CodingProjects/Python/Learning Python/read and write test/read.py",
+		"/C/CodingProjects/Python/Learning Python/read and write test/write.py",
+		"/C/CodingProjects/Python/Python Applications/BCalc/main.pyw",
+		"/C/CodingProjects/Python/Learning Python/RenPy Test/RenPy Test/game/gui.rpy",
+		"/C/CodingProjects/Python/Learning Python/RenPy Test/RenPy Test/game/options.rpy",
+		"/C/CodingProjects/Python/Learning Python/RenPy Test/RenPy Test/game/screens.rpy",
+		"/C/CodingProjects/Python/Learning Python/RenPy Test/RenPy Test/game/script.rpy",
+		"/C/CodingProjects/Python/Python Games/MSPaintDatingSim/main.pyw",
+		"/C/CodingProjects/Python/Python Games/The Art of Housewifery/main.pyw",
+		"/C/CodingProjects/Python/Python Games/The Art of Housewifery/mian.pyw",
+		"/C/CodingProjects/Python/Python Games/OutsiderGame/outsider.pyw",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/arrays.txt",
+		"/C/Users/Zan3y/Desktop/LevelCreator/main.pyw",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/School Attendance Tracker/main.py",
+		"/C/Users/Zan3y/Desktop/learning python/read and write test/read.py",
+		"/C/Users/Zan3y/Desktop/learning python/read and write test/write.py",
+		"/C/Users/Zan3y/Desktop/OutsiderGame/outsider.pyw",
+		"/C/Users/Zan3y/Desktop/autogame.py",
+		"/C/MyGames/Never Finished/Ethis/ETHIS.pyw",
+		"/C/Users/Zan3y/Desktop/writer.py",
+		"/C/MyGames/ethis/ETHIS.pyw",
+		"/C/Users/Zan3y/Downloads/png",
+		"/C/Games/data.win",
+		"/C/Users/Zan3y/Desktop/datingsim.py",
+		"/C/Users/Zan3y/Downloads/Punishment.sk",
+		"/C/Users/Zan3y/AppData/Local/Temp/fz3temp-2/index.css",
+		"/C/Users/Zan3y/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Zan3y/Downloads/index.html",
+		"/C/Users/Zan3y/Desktop/Animation/animation.py",
+		"/C/Users/Zan3y/Desktop/HorizonsMC/info.css",
+		"/C/Users/Zan3y/Desktop/HorizonsMC/info.html",
+		"/C/Users/Zan3y/Desktop/HorizonsMC/staff.html",
+		"/C/Users/Zan3y/Desktop/HorizonsMC/staff.css",
+		"/C/Users/Zan3y/Desktop/HorizonsMC/index.css",
+		"/C/Users/Zan3y/Desktop/HorizonsMC/index.html",
+		"/C/Users/Zan3y/Downloads/commands_messages.sk",
+		"/C/Users/Zan3y/Desktop/Animation/animation.pyw",
+		"/C/Users/Zan3y/Desktop/animation.pyw",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/newpunish.css",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/lock.css",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/lock.js",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/lock.html",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/newpunish.html",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/home.css",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/home.html",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/newpunish.js",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/script.js",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/form_data.php",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/log.txt",
+		"/C/Users/Zan3y/Desktop/HorizonsMC Punishment Page/newpunish.php",
+		"/C/Users/Zan3y/Desktop/test website/script.js",
+		"/C/Users/Zan3y/Desktop/test website/newpunish.css",
+		"/C/Users/Zan3y/Desktop/test website/home.css",
+		"/C/Users/Zan3y/Desktop/test website/newpunish.html",
+		"/C/Users/Zan3y/Desktop/test website/home.html",
+		"/C/Users/Zan3y/Desktop/test website/style.css",
+		"/C/Users/Zan3y/Desktop/test.html",
+		"/C/Users/Zan3y/Desktop/screentest/screentest.pyw",
+		"/C/Users/Zan3y/Desktop/keylogger/scripts/keylogger.py",
+		"/C/Users/Zan3y/Desktop/keylogger/scripts/keylogger.pyw",
+		"/C/Application/WordCreator/main.pyw",
+		"/C/Users/Zan3y/Downloads/animelist_1569787695_-_7614727.xml/animelist_1569787695_-_7614727.xml",
+		"/C/MyGames/ethis/ethis.pyw",
+		"/C/Users/Zan3y/Desktop/learning javascript+html/basic/index.html",
+		"/C/Users/Zan3y/Desktop/learning javascript+html/basic/main.js",
+		"/C/Users/Zan3y/Desktop/learning javascript/basic/index.html",
+		"/C/Users/Zan3y/Desktop/learning javascript/basic/main.js",
+		"/C/Users/Zan3y/Desktop/learning javascript/main.js",
+		"/C/Users/Zan3y/Desktop/learning javascript/index.html",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/School Attendance Tracker/scripts/main.py",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/School Attendance Tracker/scripts/save.pyw",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/School Attendance Tracker/scripts/load.pyw",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/School Attendance Tracker/save.pyw",
+		"/C/Users/Zan3y/Desktop/learning python/arrays/school.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Player",
+			"984",
+			"NULL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
